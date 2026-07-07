@@ -48,7 +48,7 @@ public class MainTSPCluster
 		// General settings.
 		int numVehicles = 5;
 		int[] possibleCustomers =
-			{15, 20, 25, 30}
+			{15, 20, 25, 30};
 		double[] alphas =
 		{ 1.01, 1.05, 1.10 };
 		int[] sizes =
