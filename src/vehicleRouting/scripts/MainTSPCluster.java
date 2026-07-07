@@ -48,13 +48,11 @@ public class MainTSPCluster
 		// General settings.
 		int numVehicles = 5;
 		int[] possibleCustomers =
-//			{15, 20, 25, 30}
-		{ 30};
+			{15, 20, 25, 30}
 		double[] alphas =
 		{ 1.01, 1.05, 1.10 };
 		int[] sizes =
-		{ 1, 3, 20, 3 };
-//		{4, 3, 20, 3};
+		{4, 3, 20, 3};
 		int argument = Integer.valueOf(args[0]);
 		int[] settings = Util.retrieveSettings(sizes, argument);
 		int numCustomers = possibleCustomers[settings[0]];
