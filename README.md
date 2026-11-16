@@ -1,9 +1,10 @@
 # r-cvrp-tsp
 
+# r-cvrp-tsp
+
 A repository containing code and instances accompanying the paper:
 
-> B. van Rossum, R. Chen, and A. Lodi (2026). *Enforcing TSP-Optimality in Fair Vehicle Routing by Cutting Planes*.
-> [[arXiv:2604.23748]](https://arxiv.org/abs/2604.23748)  
+> B. van Rossum, R. Chen, and A. Lodi (2027). *Enforcing TSP-Optimality in Fair Vehicle Routing by Cutting Planes*. *Operations Research Letters*, 70, 107539. [[Journal]](https://www.sciencedirect.com/science/article/pii/S0167637726001367)
 
 ## Overview
 
@@ -28,11 +29,13 @@ Other argument values enumerate the remaining combinations (customer counts `{15
 If you use this code or these instances in your research, please cite:
 
 ```bibtex
-@article{vanrossum2026tspoptimality,
-  author  = {van Rossum, B.T.C. and Chen, R. and Lodi, A.},
-  title   = {Enforcing TSP-Optimality in Fair Vehicle Routing by Cutting Planes},
-  note    = {Preprint: \url{https://arxiv.org/abs/2604.23748}},
-  year    = {2026},
+@article{vanrossum2027enforcing,
+  title   = {Enforcing {TSP}-Optimality in Fair Vehicle Routing by Cutting Planes},
+  author  = {van Rossum, Bart and Chen, Rui and Lodi, Andrea},
+  journal = {Operations Research Letters},
+  volume  = {70},
+  pages   = {107539},
+  year    = {2027}
 }
 ```
 
