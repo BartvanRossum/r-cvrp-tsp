@@ -1,7 +1,5 @@
 # r-cvrp-tsp
 
-# r-cvrp-tsp
-
 A repository containing code and instances accompanying the paper:
 
 > B. van Rossum, R. Chen, and A. Lodi (2027). *Enforcing TSP-Optimality in Fair Vehicle Routing by Cutting Planes*. *Operations Research Letters*, 70, 107539. [[Journal]](https://www.sciencedirect.com/science/article/pii/S0167637726001367)
